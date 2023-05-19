@@ -1,7 +1,7 @@
 Taiwo's Portfolio
 Analytics portfolio
 
-# [Project 1: Crimes Analysis and Visualization](https://github.com/Taiwooladapo/Crime-Analysis-and-Visualization-in-the-city-of-New-York/tree/main)
+# [Project 1: Crime Analysis and Visualization](https://github.com/Taiwooladapo/Crime-Analysis-and-Visualization-in-the-city-of-New-York/tree/main)
 This is a project I did in my postgraduate degree to analyze and visualize crime rates in the city of New York in the United States of America.
 # WORKFLOW
 *Retrieved the crime dataset from JSON file source.
