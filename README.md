@@ -16,8 +16,8 @@ Python, Luigi, MongoDB, PostgreSQL, Jupter Notebook and Docker.
 # LIMITATIONS AND SUGGESTIONS FOR FUTURE WORK
 One limitation of the project is the absence of machine learning algorithms to address high crime rates in New York City. Implementing such algorithms could be considered for future work to further enhance crime prevention strategies.
 
-![](/images/Saved%20Data%20to%20the%20MongoDB%20Database%20.png)
-![](/images/Results%20of%20the%20pipeline%20saved%20into%20PostgreSQL.png)
+## Overview of the stored data in a MongoDB database  ![](/images/Saved Data to the MongoDB Database.png)
+## Overview of the saved pipeline results into a PostgreSQL database  ![](/images/Results of the pipeline saved into PostgreSQL.png)
 
 # [Project 2: Investigation-of-socio-economic-factors-influencing-cancer-mortality-in-the-united-states](https://github.com/Taiwooladapo/Investigation-of-socio-economic-factors-affecting-cancer-mortality-in-the-united-states./tree/main)
 This project was conducted during my postgraduate degree to develop a robust multiple linear regression model for predicting county-level cancer-related death rates. By utilizing demographic data and the incidence rate of cancer for each county, various regression models were explored to identify the most suitable one.
