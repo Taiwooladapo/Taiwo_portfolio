@@ -32,7 +32,7 @@ This project was conducted during my postgraduate degree to develop a robust mul
 # Tools Used
 Jupyter Notebook and R programming language.
 
-# [Project 3: Utilizing-different-machine-learning-algorithms-to-detect-credit-card-fraud]
+# [Project 3: Utilizing-different-machine-learning-algorithms-to-detect-credit-card-fraud](https://github.com/Taiwooladapo/Utilizing-different-machine-learning-algorithms-to-detect-credit-card-fraud/tree/main)
 During my postgraduate degree, I conducted a project focused on detecting credit card fraud using various machine learning algorithms. The project involved applying five different algorithms to three datasets and evaluating their performance using five evaluation metrics. The datasets were obtained from Kaggle and UCI. The primary objective of the project was to identify the most suitable algorithm that could accurately detect unauthorized credit card transactions with a high level of precision and recall.
 # WORKFLOW
 *Retrieved the credit card dataset from Kaggle in CSV format.
