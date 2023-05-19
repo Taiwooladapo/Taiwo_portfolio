@@ -31,3 +31,22 @@ This project was conducted during my postgraduate degree to develop a robust mul
 *Identified the second model as the most suitable one, which included an estimation of each predictor variable's coefficient, statistical tests of significance, measures of model fit, and diagnostic plots to evaluate the model's performance and underlying assumptions.
 # Tools Used
 Jupyter Notebook and R programming language.
+
+# [Project 3: Utilizing-different-machine-learning-algorithms-to-detect-credit-card-fraud]
+During my postgraduate degree, I conducted a project focused on detecting credit card fraud using various machine learning algorithms. The project involved applying five different algorithms to three datasets and evaluating their performance using five evaluation metrics. The datasets were obtained from Kaggle and UCI. The primary objective of the project was to identify the most suitable algorithm that could accurately detect unauthorized credit card transactions with a high level of precision and recall.
+# WORKFLOW
+*Retrieved the credit card dataset from Kaggle in CSV format.
+*Explored and analyzed the dataset using Python programming language.
+*Conducted data preprocessing tasks, including data cleaning, handling missing values, and removing outliers.
+*Split the data into training and testing sets with a 30:70 ratio.
+*Selected classification algorithms, namely Decision Tree, Random Forest, Logistic Regression, Naive Bayes, and Support Vector Machine.
+*Trained the models on the training data.
+*Evaluated the models using five performance metrics: Precision, Accuracy, F1-score, Recall, and Confusion Matrix.
+*Tested the models to assess their performance.
+# TOOLS USED
+Python and Jupyter Notebook.
+# RESULT OUTPUT
+The results of the project indicated that the F1-score was the most effective metric, striking a balance between precision and recall. The Random Forest algorithm emerged as the top-performing model, demonstrating high accuracy, precision, recall, and F1-score. This means that it effectively identified fraudulent transactions while minimizing both false positives and false negatives.
+# LIMITATIONS AND SUGGESTION FOR FUTURE WORK
+The project's limitations include the size and diversity of the dataset. Given more time, it would have been beneficial to employ larger and more diverse datasets to enhance the models' robustness. Furthermore, further investigation could have been conducted to determine the most important features contributing to credit card fraud detection and to enhance the interpretability of the models.
+
